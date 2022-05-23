@@ -1,0 +1,6 @@
+name: flutter_lints
+description: Personal Flutter lints
+version: 1.0.0
+
+environment:
+  sdk: '>=2.17.1 <3.0.0'
