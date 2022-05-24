@@ -4,6 +4,7 @@ analyzer:
     - "**/*.g.dart"
     - "**/*.freezed.dart"
     - "**/*.gr.dart"
+    - "**/*.hive.dart"
     - "**/app_localizations*.dart"
     - "test/.test_coverage.dart"
     - "bin/cache/**"
