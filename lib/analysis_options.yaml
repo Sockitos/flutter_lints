@@ -17,6 +17,7 @@ analyzer:
 
   errors:
     included_file_warning: ignore
+    invalid_annotation_target: ignore
     missing_required_param: error
     missing_return: error
     parameter_assignments: warning
