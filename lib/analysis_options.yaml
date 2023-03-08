@@ -44,3 +44,4 @@ linter:
     prefer_final_parameters: false
     public_member_api_docs: false
     unnecessary_final: false
+    discarded_futures: false
