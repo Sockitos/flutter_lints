@@ -3,4 +3,4 @@ description: Personal Flutter lints
 version: 1.0.0
 
 environment:
-  sdk: '>=2.17.0 <3.0.0'
+  sdk: ">=3.0.1 <4.0.0"
