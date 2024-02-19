@@ -16,12 +16,15 @@ analyzer:
     strict-raw-types: true
 
   errors:
+    collection_methods_unrelated_type: warning
     included_file_warning: ignore
     invalid_annotation_target: ignore
     missing_required_param: error
     missing_return: error
     parameter_assignments: warning
+    record_literal_one_positional_no_trailing_comma: error
     todo: ignore
+    unrelated_type_equality_checks: warning
 
 linter:
   rules:
